@@ -1,3 +1,7 @@
+---
+title: "Today Events"
+date: 2018-11-20
+---
 title: Quick Tech Solution
 author: mollet7
 email: mollet7@live.com
@@ -13,3 +17,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
